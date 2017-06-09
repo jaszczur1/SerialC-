@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1497003307 source:c:\users\jaszczur\desktop\testdll\main.cpp
+	<iostream>
+	"..\myDll\main.h"
+
+1496958794 c:\users\jaszczur\desktop\mydll\main.h
+	<windows.h>
+	<cstdio>
+	<iostream>
+
